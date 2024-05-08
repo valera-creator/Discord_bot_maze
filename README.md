@@ -15,7 +15,7 @@
     <img src="readme_images/Bot.png">
 </div>
 <div align="center">
-    <p>В OAuth2 тыкаем галку на bot, затем остальные, указанные на картинке ниже</p>
+    <p>В OAuth2 тыкаем галку на bot, applications.commands, Administrator (указаны на картинке ниже)</p>
     <img src="readme_images/OAuth2.png">
 </div>
 
